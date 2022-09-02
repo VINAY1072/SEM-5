@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+int main()
+{
+    int x_1, y;
+    float g_r, f;
+    char a, b_t, c;
+    x_1 = 10;
+    y = 20;
+    g_r = 3.5;
+    f = 9.7;
+    a = 'v';
+    b_t = 'i';
+    c = 'n';
+    return 0;
+}

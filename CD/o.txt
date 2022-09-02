@@ -1,0 +1,1 @@
+#include<stdio.h>#include<string.h>intmain(){intx,y;floatg,f;chara,b,c;x=10;y=20;g=3.5;f=9.7;a='v';b='i';c='n';return0;}

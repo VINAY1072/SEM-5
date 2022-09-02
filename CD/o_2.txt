@@ -1,0 +1,1 @@
+#include<stdio.h>#include<string.h>intmain(){inta=10,b=20;printf("%d",a+b);return0;}
